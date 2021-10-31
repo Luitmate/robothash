@@ -1,7 +1,9 @@
-robotHash
+# robotHash
+Proyecto de prueba con React
 
-Tutorial for React To run the project:
 
-Clonar el repositorio
-Run npm install
-Run npm start
+To run the project:
+
+1. Clonar el repositorio
+2. Run `npm install`
+3. Run `npm start`
