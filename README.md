@@ -11,5 +11,5 @@ To run the project:
 /////////////////////////////////////////////////////////////////////////
 
 ¿Cómo lo veo?
-1. En la columan derecha en la sección enviroments, click en github-pages
+1. En la columna derecha en la sección enviroments, click en github-pages
 2. Click en View deployment
