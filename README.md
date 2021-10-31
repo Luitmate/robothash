@@ -13,3 +13,10 @@ To run the project:
 ¿Cómo lo veo?
 1. En la columna derecha en la sección enviroments, click en <strong>github-pages</strong>
 2. Click en <strong>View deployment</strong>
+
+
+=========================================================================
+
+<strong>Screenshoot del sitio</strong>
+
+<img alt="Screenshoot del sitio web" src="./robotScreenshoot.jpg" width="600" height="500">
